@@ -64,7 +64,4 @@ Here are some ideas to get you started:
 	<a href="mailto:hotis050@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="mailto:bada523@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Naver&logoColor=white" />
-	</a>
 </div>
